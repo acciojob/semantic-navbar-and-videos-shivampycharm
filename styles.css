@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+
+nav ul {
+    display: flex;
+    gap: 2vw;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: green;
+}
